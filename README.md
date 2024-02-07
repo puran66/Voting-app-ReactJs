@@ -1,7 +1,13 @@
 
 ## Screenshots
 
-<!-- ![Screenshot](https://github.com/SharmaNatvar/ReactJS/blob/main/voting/src/assets/ss/img0.png) -->
+![Screenshot](https://github.com/puran66/Voting-app-ReactJs/blob/main/Images/Main.png)
+![Screenshot](https://github.com/puran66/Voting-app-ReactJs/blob/main/Images/Login.png)
+![Screenshot](https://github.com/puran66/Voting-app-ReactJs/blob/main/Images/Home.png)
+![Screenshot](https://github.com/puran66/Voting-app-ReactJs/blob/main/Images/Add.png)
+![Screenshot](https://github.com/puran66/Voting-app-ReactJs/blob/main/Images/Users.png)
+![Screenshot](https://github.com/puran66/Voting-app-ReactJs/blob/main/Images/Update.png)
+![Screenshot](https://github.com/puran66/Voting-app-ReactJs/blob/main/Images/Users.png)
 
 
 
