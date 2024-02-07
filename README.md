@@ -7,7 +7,7 @@
 ![Screenshot](https://github.com/puran66/Voting-app-ReactJs/blob/main/Images/Add.png)
 ![Screenshot](https://github.com/puran66/Voting-app-ReactJs/blob/main/Images/Users.png)
 ![Screenshot](https://github.com/puran66/Voting-app-ReactJs/blob/main/Images/Update.png)
-![Screenshot](https://github.com/puran66/Voting-app-ReactJs/blob/main/Images/Users.png)
+![Screenshot](https://github.com/puran66/Voting-app-ReactJs/blob/main/Images/Profile.png)
 
 
 
